@@ -1,0 +1,2 @@
+[console_scripts]
+supervisor-manager = supervisor_manager:cli

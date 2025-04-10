@@ -1,0 +1,9 @@
+README.md
+setup.py
+supervisor_manager.py
+supervisor_manager.egg-info/PKG-INFO
+supervisor_manager.egg-info/SOURCES.txt
+supervisor_manager.egg-info/dependency_links.txt
+supervisor_manager.egg-info/entry_points.txt
+supervisor_manager.egg-info/requires.txt
+supervisor_manager.egg-info/top_level.txt
